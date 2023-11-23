@@ -1,4 +1,3 @@
-//4264970   Aug 11, 2013 1:04:16 PM	fuwutu	 13A - Numbers	 GNU C++0x	Accepted	30 ms	0 KB
 #include <cstdio>
 
 int GCD(int m, int n)
